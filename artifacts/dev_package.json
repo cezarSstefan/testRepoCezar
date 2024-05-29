@@ -1,0 +1,51 @@
+{
+	"id": "e8aeb675-2712-4def-9473-afd557f4cca7",
+	"createdAt": "2024-05-29T09:19:41.000Z",
+	"createdBy": "admin",
+	"git": {
+		"remote": "https://github.com/cezarSstefan/testRepoCezar"
+	},
+	"name": "Cezar-dev-package",
+	"description": null,
+	"ver": "24.05.29.1022",
+	"enableCICD": true,
+	"apps": [
+		{
+			"id": "1848d5fc-8054-461c-af64-016f3306896a",
+			"application": "test1",
+			"title": "",
+			"description": "",
+			"package": {
+				"id": "e8aeb675-2712-4def-9473-afd557f4cca7"
+			}
+		}
+	],
+	"api": [],
+	"odataSource": [],
+	"odataMock": [],
+	"dictionary": [],
+	"jsclass": [],
+	"jsscript_group": [],
+	"theme": [],
+	"pdf": [],
+	"rulesengine": [],
+	"reports": [],
+	"api_authentication": [],
+	"api_group": [],
+	"tile": [],
+	"category": [],
+	"launchpad": [],
+	"certificates": [],
+	"role": [],
+	"systems": [],
+	"doc": [],
+	"wf_notifications": [],
+	"department": [],
+	"script_scheduler": [],
+	"wf_definition": [],
+	"connector": [],
+	"events": [],
+	"code_snippets": [],
+	"wf_determination": [],
+	"wf_taskaction": []
+}

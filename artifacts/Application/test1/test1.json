@@ -1,0 +1,158 @@
+{
+	"id": "1848d5fc-8054-461c-af64-016f3306896a",
+	"createdAt": "2024-05-29T07:45:08.000Z",
+	"createdBy": "admin",
+	"objects": [
+		{
+			"fieldNo": "ce156e83-f8e8-45fb-c699-26b24f07256a",
+			"fieldName": "App",
+			"fieldParent": 0,
+			"fieldType": "sap.m.App",
+			"script": "",
+			"customComponent": false,
+			"request": [],
+			"response": [],
+			"attributes": [],
+			"data": [
+				{
+					"fieldNo": "88596aaf-76df-4a4c-cef4-9c32dbb237e9",
+					"fieldName": "Page",
+					"fieldParent": "ce156e83-f8e8-45fb-c699-26b24f07256a",
+					"fieldType": "sap.m.Page",
+					"script": "",
+					"customComponent": false,
+					"request": [],
+					"response": [],
+					"attributes": [],
+					"data": [
+						{
+							"fieldNo": "53c7601c-ae85-4a7d-a618-5d667e5cf045",
+							"fieldName": "VBox",
+							"fieldParent": "88596aaf-76df-4a4c-cef4-9c32dbb237e9",
+							"fieldType": "sap.m.VBox",
+							"script": "",
+							"customComponent": false,
+							"request": [],
+							"response": [],
+							"attributes": [],
+							"data": [
+								{
+									"fieldNo": "d8f2e407-1636-4486-991b-2448bfa80868",
+									"fieldName": "Title",
+									"fieldParent": "53c7601c-ae85-4a7d-a618-5d667e5cf045",
+									"fieldType": "sap.m.Title",
+									"script": "",
+									"customComponent": false,
+									"request": [],
+									"response": [],
+									"attributes": [
+										{
+											"attribute": "text",
+											"grouping": "Properties",
+											"value": "Hello",
+											"script": "",
+											"translation": []
+										}
+									],
+									"data": []
+								},
+								{
+									"fieldNo": "74b78025-1e10-446b-bada-5b2306e70ad2",
+									"fieldName": "Text",
+									"fieldParent": "53c7601c-ae85-4a7d-a618-5d667e5cf045",
+									"fieldType": "sap.m.Text",
+									"script": "",
+									"customComponent": false,
+									"request": [],
+									"response": [],
+									"attributes": [
+										{
+											"attribute": "text",
+											"grouping": "Properties",
+											"value": "Hi",
+											"script": "",
+											"translation": []
+										}
+									],
+									"data": []
+								},
+								{
+									"fieldNo": "ef6596ec-2cde-422c-c76a-e4f91346e116",
+									"fieldName": "Image",
+									"fieldParent": "53c7601c-ae85-4a7d-a618-5d667e5cf045",
+									"fieldType": "sap.m.Image",
+									"script": "",
+									"customComponent": false,
+									"request": [],
+									"response": [],
+									"attributes": [
+										{
+											"attribute": "src",
+											"grouping": "Properties",
+											"value": "/media/root/eLearningMedia/contruction.png",
+											"script": "",
+											"translation": []
+										}
+									],
+									"data": []
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"fieldNo": 99999,
+			"data": []
+		},
+		{
+			"fieldNo": 99998,
+			"data": []
+		}
+	],
+	"componentInterface": [],
+	"ver": "24.05.29.1019",
+	"application": "test1",
+	"title": "",
+	"description": "",
+	"enableFileStorage": false,
+	"enableManifest": false,
+	"enableStylesheet": false,
+	"enableObfuscate": false,
+	"onlyRunLaunchpad": false,
+	"disabled": false,
+	"loadLaunchpadCode": null,
+	"loadApplicationCode": null,
+	"appType": "A",
+	"ui5_m": true,
+	"ui5_f": false,
+	"ui5_table": false,
+	"ui5_tnt": false,
+	"ui5_uxap": false,
+	"ui5_chart": false,
+	"ui5_theme": "sap_horizon",
+	"ui5_version": "",
+	"ui5_language": null,
+	"ui5_url": "",
+	"cus_theme": "",
+	"css": "",
+	"compiledCss": null,
+	"header": "",
+	"manifest": "",
+	"globalScript": null,
+	"deleted": false,
+	"libHighchart": false,
+	"libHighmap": false,
+	"publicAccess": false,
+	"ui5_bootstrap": false,
+	"ui5_ionic": false,
+	"useV2AppHandler": false,
+	"compilerTarget": 3,
+	"tabWidth": null,
+	"printWidth": null,
+	"generateVersionOnActivation": true,
+	"activationHistoryCount": 4,
+	"apis": [],
+	"package": "e8aeb675-2712-4def-9473-afd557f4cca7"
+}
